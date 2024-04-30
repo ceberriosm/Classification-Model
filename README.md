@@ -1,3 +1,3 @@
 # Classification-Model
 Adapting Naive Bayes
- [link](https://ceberriosm.github.io/Classification-Model/)
+ [Report](https://ceberriosm.github.io/Classification-Model/)
